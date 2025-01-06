@@ -36,10 +36,7 @@ These tools are designed to assist in learning and exploring network security pr
 ✔ Compares banners against a database of known vulnerable services.  
 ✔ Multi-threaded for fast scanning.  
 
-## Prerequisites
-Installer NodeJs : https://nodejs.org/fr/
-
-## ## Installation
+## Installation
 
 Clone the repository :
 

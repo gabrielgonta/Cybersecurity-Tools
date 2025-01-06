@@ -15,22 +15,26 @@ These tools are designed to assist in learning and exploring network security pr
 ## Features
 
 1. **MAC Address Changer**
+
 ✔ Quickly change the MAC address of any network interface.  
 ✔ Automate disabling and re-enabling of the specified interface.  
 ✔ Simple and lightweight, built with Python. 
 
 2. **Network Scanner**
+
 ✔ Scan a target IP or range to identify connected devices.  
 ✔ Displays device IP and MAC address.  
 ✔ Built with the powerful `scapy` library for network packet manipulation.
 
 3. **HTTP Sniffer**
+
 ✔ Capture HTTP requests on a specified network interface.  
 ✔ Display URLs visited by clients.  
 ✔ Identify potential sensitive information like usernames and passwords.  
 ✔ Lightweight and efficient.  
 
 4. **Port Scanner**
+
 ✔ Scans open ports on a target IP or domain name.  
 ✔ Retrieves banners to identify potential vulnerabilities.  
 ✔ Compares banners against a database of known vulnerable services.  

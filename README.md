@@ -50,6 +50,12 @@ Navigate to the project directory :
 cd Cybersecurity-Tools
 ```
 
+Install dependencies :
+
+```
+pip install -r requirements.txt
+```
+
 ## Usage
 
 ### 1. MAC Address Changer
